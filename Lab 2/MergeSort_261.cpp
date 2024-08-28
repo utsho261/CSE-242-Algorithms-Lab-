@@ -50,7 +50,6 @@ void mergeSort(int arr[], int left, int right)
     }
 }
 
-// Main function
 int main()
 {
     int n;
